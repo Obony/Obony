@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faith Obonyo Nyaberi</h1>
-<h3 align="center">A cool Software Engineering learner from Kenya.</h3>
+<h3 align="center">A Software Engineering learner from Kenya.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-girl-animation-fe7t4gejurmtof8v.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obony&label=Profile%20views&color=0e75b6&style=flat" alt="obony" /> </p>
 
