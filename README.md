@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/faith-obonyo-a77a38253/)](https://twitter.com/faithnyabz)
+[![MasterHead](https://i.pinimg.com/564x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg)](https://github.com/Obony)
 
 <h1 align="center">Hi 👋, I'm Faith Obonyo Nyaberi</h1>
 <h3 align="center">A Software Engineering learner from Kenya.</h3>
