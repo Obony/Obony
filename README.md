@@ -1,12 +1,10 @@
 [![MasterHead](https://www.linkedin.com/in/faith-obonyo-a77a38253/)](https://twitter.com/faithnyabz)
 
 <h1 align="center">Hi 👋, I'm Faith Obonyo Nyaberi</h1>
-<h3 align="center">A cool Software Engineering learner from Kenya.</h3>
+<h3 align="center">A Software Engineering learner from Kenya.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-girl-animation-fe7t4gejurmtof8v.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obony&label=Profile%20views&color=0e75b6&style=flat" alt="obony" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obony" alt="obony" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/faithnyabz" target="blank"><img src="https://img.shields.io/twitter/follow/faithnyabz?logo=twitter&style=for-the-badge" alt="faithnyabz" /></a> </p>
 
@@ -33,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obony&show_icons=true&locale=en" alt="obony" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obony&" alt="obony" /></p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obony&theme=radical)
