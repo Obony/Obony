@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/faithnyabz" target="blank"><img src="https://img.shields.io/twitter/follow/faithnyabz?logo=twitter&style=for-the-badge" alt="faithnyabz" /></a> </p>
 
-- 🌱 I’m currently learning **C Programming**
+- 🌱 I’m currently learning **C Programming and Bash Scripting**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
